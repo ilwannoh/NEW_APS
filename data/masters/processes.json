@@ -1,0 +1,38 @@
+{
+  "PR01": {
+    "id": "PR01",
+    "name": "계량",
+    "order": 1,
+    "default_duration_hours": 2.0
+  },
+  "PR02": {
+    "id": "PR02",
+    "name": "혼합",
+    "order": 2,
+    "default_duration_hours": 4.0
+  },
+  "PR03": {
+    "id": "PR03",
+    "name": "타정",
+    "order": 3,
+    "default_duration_hours": 8.0
+  },
+  "PR04": {
+    "id": "PR04",
+    "name": "코팅",
+    "order": 4,
+    "default_duration_hours": 6.0
+  },
+  "PR05": {
+    "id": "PR05",
+    "name": "선별",
+    "order": 5,
+    "default_duration_hours": 3.0
+  },
+  "PR06": {
+    "id": "PR06",
+    "name": "포장",
+    "order": 6,
+    "default_duration_hours": 4.0
+  }
+}

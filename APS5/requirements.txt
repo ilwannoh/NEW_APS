@@ -1,0 +1,9 @@
+ streamlit==1.32.0
+ pandas==2.2.1
+ openpyxl==3.1.2
+ plotly==5.19.0
+ python-dateutil==2.9.0
+ numpy==1.26.4
+ altair==5.2.0
+ pydantic==2.6.1
+ xlsxwriter==3.2.0

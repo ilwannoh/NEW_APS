@@ -1,0 +1,349 @@
+{
+  "500002": {
+    "id": "500002",
+    "name": "기넥신에프정 40mg 100T",
+    "priority": 1,
+    "equipment_list": [
+      "EQ001",
+      "EQ002",
+      "EQ003",
+      "EQ004",
+      "EQ005",
+      "EQ006"
+    ],
+    "process_order": [
+      "PR01",
+      "PR02",
+      "PR03",
+      "PR04",
+      "PR05",
+      "PR06"
+    ],
+    "lead_time_hours": 16,
+    "batch_size": 10000,
+    "lead_time_days": 1,
+    "lead_time": 24,
+    "process_details": {
+      "PR01": {
+        "order": 1,
+        "duration_hours": 3.0
+      }
+    }
+  },
+  "500005": {
+    "id": "500005",
+    "name": "기넥신에프정 40mg 300T",
+    "priority": 1,
+    "equipment_list": [
+      "EQ001",
+      "EQ002",
+      "EQ003",
+      "EQ004",
+      "EQ005",
+      "EQ006"
+    ],
+    "process_order": [
+      "PR01",
+      "PR02",
+      "PR03",
+      "PR04",
+      "PR05",
+      "PR06"
+    ],
+    "lead_time_hours": 20,
+    "batch_size": 30000
+  },
+  "500008": {
+    "id": "500008",
+    "name": "기넥신에프정 80mg 100T",
+    "priority": 1,
+    "equipment_list": [
+      "EQ001",
+      "EQ002",
+      "EQ003",
+      "EQ004",
+      "EQ005",
+      "EQ006"
+    ],
+    "process_order": [
+      "PR01",
+      "PR02",
+      "PR03",
+      "PR04",
+      "PR05",
+      "PR06"
+    ],
+    "lead_time_hours": 16,
+    "batch_size": 10000
+  },
+  "505227": {
+    "id": "505227",
+    "name": "기넥신에프정 80mg 500T",
+    "priority": 1,
+    "equipment_list": [
+      "EQ001",
+      "EQ002",
+      "EQ003",
+      "EQ004",
+      "EQ005",
+      "EQ006"
+    ],
+    "process_order": [
+      "PR01",
+      "PR02",
+      "PR03",
+      "PR04",
+      "PR05",
+      "PR06"
+    ],
+    "lead_time_hours": 24,
+    "batch_size": 50000
+  },
+  "500023": {
+    "id": "500023",
+    "name": "리넥신정 80/100mg 300T",
+    "priority": 2,
+    "equipment_list": [
+      "EQ001",
+      "EQ002",
+      "EQ003",
+      "EQ004",
+      "EQ005",
+      "EQ006"
+    ],
+    "process_order": [
+      "PR01",
+      "PR02",
+      "PR03",
+      "PR04",
+      "PR05",
+      "PR06"
+    ],
+    "lead_time_hours": 20,
+    "batch_size": 30000
+  },
+  "500024": {
+    "id": "500024",
+    "name": "리넥신정 80/100mg 30T",
+    "priority": 2,
+    "equipment_list": [
+      "EQ001",
+      "EQ002",
+      "EQ003",
+      "EQ004",
+      "EQ005",
+      "EQ006"
+    ],
+    "process_order": [
+      "PR01",
+      "PR02",
+      "PR03",
+      "PR04",
+      "PR05",
+      "PR06"
+    ],
+    "lead_time_hours": 12,
+    "batch_size": 3000
+  },
+  "507012": {
+    "id": "507012",
+    "name": "리넥신서방정 30T",
+    "priority": 2,
+    "equipment_list": [
+      "EQ001",
+      "EQ002",
+      "EQ003",
+      "EQ004",
+      "EQ005",
+      "EQ006"
+    ],
+    "process_order": [
+      "PR01",
+      "PR02",
+      "PR03",
+      "PR04",
+      "PR05",
+      "PR06"
+    ],
+    "lead_time_hours": 12,
+    "batch_size": 3000
+  },
+  "507013": {
+    "id": "507013",
+    "name": "리넥신서방정 300T",
+    "priority": 2,
+    "equipment_list": [
+      "EQ001",
+      "EQ002",
+      "EQ003",
+      "EQ004",
+      "EQ005",
+      "EQ006"
+    ],
+    "process_order": [
+      "PR01",
+      "PR02",
+      "PR03",
+      "PR04",
+      "PR05",
+      "PR06"
+    ],
+    "lead_time_hours": 20,
+    "batch_size": 30000
+  },
+  "500041": {
+    "id": "500041",
+    "name": "조인스정 200mg 500T",
+    "priority": 3,
+    "equipment_list": [
+      "EQ001",
+      "EQ002",
+      "EQ003",
+      "EQ005",
+      "EQ006"
+    ],
+    "process_order": [
+      "PR01",
+      "PR02",
+      "PR03",
+      "PR05",
+      "PR06"
+    ],
+    "lead_time_hours": 20,
+    "batch_size": 50000
+  },
+  "507123": {
+    "id": "507123",
+    "name": "페브릭정 40mg 30T",
+    "priority": 4,
+    "equipment_list": [
+      "EQ001",
+      "EQ002",
+      "EQ003",
+      "EQ004",
+      "EQ005",
+      "EQ006"
+    ],
+    "process_order": [
+      "PR01",
+      "PR02",
+      "PR03",
+      "PR04",
+      "PR05",
+      "PR06"
+    ],
+    "lead_time_hours": 12,
+    "batch_size": 3000
+  },
+  "505090": {
+    "id": "505090",
+    "name": "페브릭정 40mg 100T",
+    "priority": 4,
+    "equipment_list": [
+      "EQ001",
+      "EQ002",
+      "EQ003",
+      "EQ004",
+      "EQ005",
+      "EQ006"
+    ],
+    "process_order": [
+      "PR01",
+      "PR02",
+      "PR03",
+      "PR04",
+      "PR05",
+      "PR06"
+    ],
+    "lead_time_hours": 16,
+    "batch_size": 10000
+  },
+  "507124": {
+    "id": "507124",
+    "name": "페브릭정 80mg 30T",
+    "priority": 4,
+    "equipment_list": [
+      "EQ001",
+      "EQ002",
+      "EQ003",
+      "EQ004",
+      "EQ005",
+      "EQ006"
+    ],
+    "process_order": [
+      "PR01",
+      "PR02",
+      "PR03",
+      "PR04",
+      "PR05",
+      "PR06"
+    ],
+    "lead_time_hours": 12,
+    "batch_size": 3000
+  },
+  "506509": {
+    "id": "506509",
+    "name": "페브릭정 80mg 100T",
+    "priority": 4,
+    "equipment_list": [
+      "EQ001",
+      "EQ002",
+      "EQ003",
+      "EQ004",
+      "EQ005",
+      "EQ006"
+    ],
+    "process_order": [
+      "PR01",
+      "PR02",
+      "PR03",
+      "PR04",
+      "PR05",
+      "PR06"
+    ],
+    "lead_time_hours": 16,
+    "batch_size": 10000
+  },
+  "507242": {
+    "id": "507242",
+    "name": "신플랙스세이프정 100T",
+    "priority": 5,
+    "equipment_list": [
+      "EQ001",
+      "EQ002",
+      "EQ003",
+      "EQ005",
+      "EQ006"
+    ],
+    "process_order": [
+      "PR01",
+      "PR02",
+      "PR03",
+      "PR05",
+      "PR06"
+    ],
+    "lead_time_hours": 16,
+    "batch_size": 10000
+  },
+  "505871": {
+    "id": "505871",
+    "name": "신플랙스세이프정 30T",
+    "priority": 5,
+    "equipment_list": [
+      "EQ001",
+      "EQ002",
+      "EQ003",
+      "EQ005",
+      "EQ006"
+    ],
+    "process_order": [
+      "PR01",
+      "PR02",
+      "PR03",
+      "PR05",
+      "PR06"
+    ],
+    "lead_time_hours": 12,
+    "batch_size": 3000
+  }
+}

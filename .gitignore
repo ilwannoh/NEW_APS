@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Data files
+*.xlsx
+*.xlsm
+*.csv
+
+# Config files with sensitive data
+config/settings.json
+data/config.json
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+.~*
+
+# Backup files
+*.bak
+*.backup
+
+# Test coverage
+htmlcov/
+.coverage
+.pytest_cache/
+
+# Virtual environments
+*/venv/
+*/env/
+
+# Distribution
+*.whl
+*.tar.gz
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local

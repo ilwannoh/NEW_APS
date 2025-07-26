@@ -1,0 +1,1646 @@
+{
+  "PR01_2025-02-03": {
+    "process_id": "PR01",
+    "date": "2025-02-03",
+    "worker_count": 8,
+    "total_capacity": 16.0
+  },
+  "PR02_2025-02-03": {
+    "process_id": "PR02",
+    "date": "2025-02-03",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-03": {
+    "process_id": "PR03",
+    "date": "2025-02-03",
+    "worker_count": 12,
+    "total_capacity": 6.0
+  },
+  "PR04_2025-02-03": {
+    "process_id": "PR04",
+    "date": "2025-02-03",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-03": {
+    "process_id": "PR05",
+    "date": "2025-02-03",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-03": {
+    "process_id": "PR06",
+    "date": "2025-02-03",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-04": {
+    "process_id": "PR01",
+    "date": "2025-02-04",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-04": {
+    "process_id": "PR02",
+    "date": "2025-02-04",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-04": {
+    "process_id": "PR03",
+    "date": "2025-02-04",
+    "worker_count": 12,
+    "total_capacity": 6.0
+  },
+  "PR04_2025-02-04": {
+    "process_id": "PR04",
+    "date": "2025-02-04",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-04": {
+    "process_id": "PR05",
+    "date": "2025-02-04",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-04": {
+    "process_id": "PR06",
+    "date": "2025-02-04",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-05": {
+    "process_id": "PR01",
+    "date": "2025-02-05",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-05": {
+    "process_id": "PR02",
+    "date": "2025-02-05",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-05": {
+    "process_id": "PR03",
+    "date": "2025-02-05",
+    "worker_count": 12,
+    "total_capacity": 6.0
+  },
+  "PR04_2025-02-05": {
+    "process_id": "PR04",
+    "date": "2025-02-05",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-05": {
+    "process_id": "PR05",
+    "date": "2025-02-05",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-05": {
+    "process_id": "PR06",
+    "date": "2025-02-05",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-06": {
+    "process_id": "PR01",
+    "date": "2025-02-06",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-06": {
+    "process_id": "PR02",
+    "date": "2025-02-06",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-06": {
+    "process_id": "PR03",
+    "date": "2025-02-06",
+    "worker_count": 8,
+    "total_capacity": 4.0
+  },
+  "PR04_2025-02-06": {
+    "process_id": "PR04",
+    "date": "2025-02-06",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-06": {
+    "process_id": "PR05",
+    "date": "2025-02-06",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-06": {
+    "process_id": "PR06",
+    "date": "2025-02-06",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-07": {
+    "process_id": "PR01",
+    "date": "2025-02-07",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-07": {
+    "process_id": "PR02",
+    "date": "2025-02-07",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-07": {
+    "process_id": "PR03",
+    "date": "2025-02-07",
+    "worker_count": 8,
+    "total_capacity": 4.0
+  },
+  "PR04_2025-02-07": {
+    "process_id": "PR04",
+    "date": "2025-02-07",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-07": {
+    "process_id": "PR05",
+    "date": "2025-02-07",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-07": {
+    "process_id": "PR06",
+    "date": "2025-02-07",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-10": {
+    "process_id": "PR01",
+    "date": "2025-02-10",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-10": {
+    "process_id": "PR02",
+    "date": "2025-02-10",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-10": {
+    "process_id": "PR03",
+    "date": "2025-02-10",
+    "worker_count": 8,
+    "total_capacity": 4.0
+  },
+  "PR04_2025-02-10": {
+    "process_id": "PR04",
+    "date": "2025-02-10",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-10": {
+    "process_id": "PR05",
+    "date": "2025-02-10",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-10": {
+    "process_id": "PR06",
+    "date": "2025-02-10",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-11": {
+    "process_id": "PR01",
+    "date": "2025-02-11",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-11": {
+    "process_id": "PR02",
+    "date": "2025-02-11",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-11": {
+    "process_id": "PR03",
+    "date": "2025-02-11",
+    "worker_count": 8,
+    "total_capacity": 4.0
+  },
+  "PR04_2025-02-11": {
+    "process_id": "PR04",
+    "date": "2025-02-11",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-11": {
+    "process_id": "PR05",
+    "date": "2025-02-11",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-11": {
+    "process_id": "PR06",
+    "date": "2025-02-11",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-12": {
+    "process_id": "PR01",
+    "date": "2025-02-12",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-12": {
+    "process_id": "PR02",
+    "date": "2025-02-12",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-12": {
+    "process_id": "PR03",
+    "date": "2025-02-12",
+    "worker_count": 8,
+    "total_capacity": 4.0
+  },
+  "PR04_2025-02-12": {
+    "process_id": "PR04",
+    "date": "2025-02-12",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-12": {
+    "process_id": "PR05",
+    "date": "2025-02-12",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-12": {
+    "process_id": "PR06",
+    "date": "2025-02-12",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-13": {
+    "process_id": "PR01",
+    "date": "2025-02-13",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-13": {
+    "process_id": "PR02",
+    "date": "2025-02-13",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-13": {
+    "process_id": "PR03",
+    "date": "2025-02-13",
+    "worker_count": 8,
+    "total_capacity": 4.0
+  },
+  "PR04_2025-02-13": {
+    "process_id": "PR04",
+    "date": "2025-02-13",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-13": {
+    "process_id": "PR05",
+    "date": "2025-02-13",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-13": {
+    "process_id": "PR06",
+    "date": "2025-02-13",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-14": {
+    "process_id": "PR01",
+    "date": "2025-02-14",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-14": {
+    "process_id": "PR02",
+    "date": "2025-02-14",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-14": {
+    "process_id": "PR03",
+    "date": "2025-02-14",
+    "worker_count": 8,
+    "total_capacity": 4.0
+  },
+  "PR04_2025-02-14": {
+    "process_id": "PR04",
+    "date": "2025-02-14",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-14": {
+    "process_id": "PR05",
+    "date": "2025-02-14",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-14": {
+    "process_id": "PR06",
+    "date": "2025-02-14",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-17": {
+    "process_id": "PR01",
+    "date": "2025-02-17",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-17": {
+    "process_id": "PR02",
+    "date": "2025-02-17",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-17": {
+    "process_id": "PR03",
+    "date": "2025-02-17",
+    "worker_count": 8,
+    "total_capacity": 4.0
+  },
+  "PR04_2025-02-17": {
+    "process_id": "PR04",
+    "date": "2025-02-17",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-17": {
+    "process_id": "PR05",
+    "date": "2025-02-17",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-17": {
+    "process_id": "PR06",
+    "date": "2025-02-17",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-18": {
+    "process_id": "PR01",
+    "date": "2025-02-18",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-18": {
+    "process_id": "PR02",
+    "date": "2025-02-18",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-18": {
+    "process_id": "PR03",
+    "date": "2025-02-18",
+    "worker_count": 8,
+    "total_capacity": 4.0
+  },
+  "PR04_2025-02-18": {
+    "process_id": "PR04",
+    "date": "2025-02-18",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-18": {
+    "process_id": "PR05",
+    "date": "2025-02-18",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-18": {
+    "process_id": "PR06",
+    "date": "2025-02-18",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-19": {
+    "process_id": "PR01",
+    "date": "2025-02-19",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-19": {
+    "process_id": "PR02",
+    "date": "2025-02-19",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-19": {
+    "process_id": "PR03",
+    "date": "2025-02-19",
+    "worker_count": 8,
+    "total_capacity": 4.0
+  },
+  "PR04_2025-02-19": {
+    "process_id": "PR04",
+    "date": "2025-02-19",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-19": {
+    "process_id": "PR05",
+    "date": "2025-02-19",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-19": {
+    "process_id": "PR06",
+    "date": "2025-02-19",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-20": {
+    "process_id": "PR01",
+    "date": "2025-02-20",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-20": {
+    "process_id": "PR02",
+    "date": "2025-02-20",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-20": {
+    "process_id": "PR03",
+    "date": "2025-02-20",
+    "worker_count": 8,
+    "total_capacity": 4.0
+  },
+  "PR04_2025-02-20": {
+    "process_id": "PR04",
+    "date": "2025-02-20",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-20": {
+    "process_id": "PR05",
+    "date": "2025-02-20",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-20": {
+    "process_id": "PR06",
+    "date": "2025-02-20",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-21": {
+    "process_id": "PR01",
+    "date": "2025-02-21",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-21": {
+    "process_id": "PR02",
+    "date": "2025-02-21",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-21": {
+    "process_id": "PR03",
+    "date": "2025-02-21",
+    "worker_count": 8,
+    "total_capacity": 4.0
+  },
+  "PR04_2025-02-21": {
+    "process_id": "PR04",
+    "date": "2025-02-21",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-21": {
+    "process_id": "PR05",
+    "date": "2025-02-21",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-21": {
+    "process_id": "PR06",
+    "date": "2025-02-21",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-24": {
+    "process_id": "PR01",
+    "date": "2025-02-24",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-24": {
+    "process_id": "PR02",
+    "date": "2025-02-24",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-24": {
+    "process_id": "PR03",
+    "date": "2025-02-24",
+    "worker_count": 8,
+    "total_capacity": 4.0
+  },
+  "PR04_2025-02-24": {
+    "process_id": "PR04",
+    "date": "2025-02-24",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-24": {
+    "process_id": "PR05",
+    "date": "2025-02-24",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-24": {
+    "process_id": "PR06",
+    "date": "2025-02-24",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-25": {
+    "process_id": "PR01",
+    "date": "2025-02-25",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-25": {
+    "process_id": "PR02",
+    "date": "2025-02-25",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-25": {
+    "process_id": "PR03",
+    "date": "2025-02-25",
+    "worker_count": 12,
+    "total_capacity": 6.0
+  },
+  "PR04_2025-02-25": {
+    "process_id": "PR04",
+    "date": "2025-02-25",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-25": {
+    "process_id": "PR05",
+    "date": "2025-02-25",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-25": {
+    "process_id": "PR06",
+    "date": "2025-02-25",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-26": {
+    "process_id": "PR01",
+    "date": "2025-02-26",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-26": {
+    "process_id": "PR02",
+    "date": "2025-02-26",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-26": {
+    "process_id": "PR03",
+    "date": "2025-02-26",
+    "worker_count": 12,
+    "total_capacity": 6.0
+  },
+  "PR04_2025-02-26": {
+    "process_id": "PR04",
+    "date": "2025-02-26",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-26": {
+    "process_id": "PR05",
+    "date": "2025-02-26",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-26": {
+    "process_id": "PR06",
+    "date": "2025-02-26",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-27": {
+    "process_id": "PR01",
+    "date": "2025-02-27",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-27": {
+    "process_id": "PR02",
+    "date": "2025-02-27",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-27": {
+    "process_id": "PR03",
+    "date": "2025-02-27",
+    "worker_count": 12,
+    "total_capacity": 6.0
+  },
+  "PR04_2025-02-27": {
+    "process_id": "PR04",
+    "date": "2025-02-27",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-27": {
+    "process_id": "PR05",
+    "date": "2025-02-27",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-27": {
+    "process_id": "PR06",
+    "date": "2025-02-27",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-02-28": {
+    "process_id": "PR01",
+    "date": "2025-02-28",
+    "worker_count": 4,
+    "total_capacity": 8.0
+  },
+  "PR02_2025-02-28": {
+    "process_id": "PR02",
+    "date": "2025-02-28",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR03_2025-02-28": {
+    "process_id": "PR03",
+    "date": "2025-02-28",
+    "worker_count": 12,
+    "total_capacity": 6.0
+  },
+  "PR04_2025-02-28": {
+    "process_id": "PR04",
+    "date": "2025-02-28",
+    "worker_count": 4,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR05_2025-02-28": {
+    "process_id": "PR05",
+    "date": "2025-02-28",
+    "worker_count": 2,
+    "total_capacity": 2.6666666666666665
+  },
+  "PR06_2025-02-28": {
+    "process_id": "PR06",
+    "date": "2025-02-28",
+    "worker_count": 4,
+    "total_capacity": 4.0
+  },
+  "PR01_2025-07-01": {
+    "process_id": "PR01",
+    "date": "2025-07-01",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-01": {
+    "process_id": "PR02",
+    "date": "2025-07-01",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-01": {
+    "process_id": "PR03",
+    "date": "2025-07-01",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-01": {
+    "process_id": "PR04",
+    "date": "2025-07-01",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-01": {
+    "process_id": "PR05",
+    "date": "2025-07-01",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-01": {
+    "process_id": "PR06",
+    "date": "2025-07-01",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-02": {
+    "process_id": "PR01",
+    "date": "2025-07-02",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-02": {
+    "process_id": "PR02",
+    "date": "2025-07-02",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-02": {
+    "process_id": "PR03",
+    "date": "2025-07-02",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-02": {
+    "process_id": "PR04",
+    "date": "2025-07-02",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-02": {
+    "process_id": "PR05",
+    "date": "2025-07-02",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-02": {
+    "process_id": "PR06",
+    "date": "2025-07-02",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-03": {
+    "process_id": "PR01",
+    "date": "2025-07-03",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-03": {
+    "process_id": "PR02",
+    "date": "2025-07-03",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-03": {
+    "process_id": "PR03",
+    "date": "2025-07-03",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-03": {
+    "process_id": "PR04",
+    "date": "2025-07-03",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-03": {
+    "process_id": "PR05",
+    "date": "2025-07-03",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-03": {
+    "process_id": "PR06",
+    "date": "2025-07-03",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-04": {
+    "process_id": "PR01",
+    "date": "2025-07-04",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-04": {
+    "process_id": "PR02",
+    "date": "2025-07-04",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-04": {
+    "process_id": "PR03",
+    "date": "2025-07-04",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-04": {
+    "process_id": "PR04",
+    "date": "2025-07-04",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-04": {
+    "process_id": "PR05",
+    "date": "2025-07-04",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-04": {
+    "process_id": "PR06",
+    "date": "2025-07-04",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-07": {
+    "process_id": "PR01",
+    "date": "2025-07-07",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-07": {
+    "process_id": "PR02",
+    "date": "2025-07-07",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-07": {
+    "process_id": "PR03",
+    "date": "2025-07-07",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-07": {
+    "process_id": "PR04",
+    "date": "2025-07-07",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-07": {
+    "process_id": "PR05",
+    "date": "2025-07-07",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-07": {
+    "process_id": "PR06",
+    "date": "2025-07-07",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-08": {
+    "process_id": "PR01",
+    "date": "2025-07-08",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-08": {
+    "process_id": "PR02",
+    "date": "2025-07-08",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-08": {
+    "process_id": "PR03",
+    "date": "2025-07-08",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-08": {
+    "process_id": "PR04",
+    "date": "2025-07-08",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-08": {
+    "process_id": "PR05",
+    "date": "2025-07-08",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-08": {
+    "process_id": "PR06",
+    "date": "2025-07-08",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-09": {
+    "process_id": "PR01",
+    "date": "2025-07-09",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-09": {
+    "process_id": "PR02",
+    "date": "2025-07-09",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-09": {
+    "process_id": "PR03",
+    "date": "2025-07-09",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-09": {
+    "process_id": "PR04",
+    "date": "2025-07-09",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-09": {
+    "process_id": "PR05",
+    "date": "2025-07-09",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-09": {
+    "process_id": "PR06",
+    "date": "2025-07-09",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-10": {
+    "process_id": "PR01",
+    "date": "2025-07-10",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-10": {
+    "process_id": "PR02",
+    "date": "2025-07-10",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-10": {
+    "process_id": "PR03",
+    "date": "2025-07-10",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-10": {
+    "process_id": "PR04",
+    "date": "2025-07-10",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-10": {
+    "process_id": "PR05",
+    "date": "2025-07-10",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-10": {
+    "process_id": "PR06",
+    "date": "2025-07-10",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-11": {
+    "process_id": "PR01",
+    "date": "2025-07-11",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-11": {
+    "process_id": "PR02",
+    "date": "2025-07-11",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-11": {
+    "process_id": "PR03",
+    "date": "2025-07-11",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-11": {
+    "process_id": "PR04",
+    "date": "2025-07-11",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-11": {
+    "process_id": "PR05",
+    "date": "2025-07-11",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-11": {
+    "process_id": "PR06",
+    "date": "2025-07-11",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-14": {
+    "process_id": "PR01",
+    "date": "2025-07-14",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-14": {
+    "process_id": "PR02",
+    "date": "2025-07-14",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-14": {
+    "process_id": "PR03",
+    "date": "2025-07-14",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-14": {
+    "process_id": "PR04",
+    "date": "2025-07-14",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-14": {
+    "process_id": "PR05",
+    "date": "2025-07-14",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-14": {
+    "process_id": "PR06",
+    "date": "2025-07-14",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-15": {
+    "process_id": "PR01",
+    "date": "2025-07-15",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-15": {
+    "process_id": "PR02",
+    "date": "2025-07-15",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-15": {
+    "process_id": "PR03",
+    "date": "2025-07-15",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-15": {
+    "process_id": "PR04",
+    "date": "2025-07-15",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-15": {
+    "process_id": "PR05",
+    "date": "2025-07-15",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-15": {
+    "process_id": "PR06",
+    "date": "2025-07-15",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-16": {
+    "process_id": "PR01",
+    "date": "2025-07-16",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-16": {
+    "process_id": "PR02",
+    "date": "2025-07-16",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-16": {
+    "process_id": "PR03",
+    "date": "2025-07-16",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-16": {
+    "process_id": "PR04",
+    "date": "2025-07-16",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-16": {
+    "process_id": "PR05",
+    "date": "2025-07-16",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-16": {
+    "process_id": "PR06",
+    "date": "2025-07-16",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-17": {
+    "process_id": "PR01",
+    "date": "2025-07-17",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-17": {
+    "process_id": "PR02",
+    "date": "2025-07-17",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-17": {
+    "process_id": "PR03",
+    "date": "2025-07-17",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-17": {
+    "process_id": "PR04",
+    "date": "2025-07-17",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-17": {
+    "process_id": "PR05",
+    "date": "2025-07-17",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-17": {
+    "process_id": "PR06",
+    "date": "2025-07-17",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-18": {
+    "process_id": "PR01",
+    "date": "2025-07-18",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-18": {
+    "process_id": "PR02",
+    "date": "2025-07-18",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-18": {
+    "process_id": "PR03",
+    "date": "2025-07-18",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-18": {
+    "process_id": "PR04",
+    "date": "2025-07-18",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-18": {
+    "process_id": "PR05",
+    "date": "2025-07-18",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-18": {
+    "process_id": "PR06",
+    "date": "2025-07-18",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-21": {
+    "process_id": "PR01",
+    "date": "2025-07-21",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-21": {
+    "process_id": "PR02",
+    "date": "2025-07-21",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-21": {
+    "process_id": "PR03",
+    "date": "2025-07-21",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-21": {
+    "process_id": "PR04",
+    "date": "2025-07-21",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-21": {
+    "process_id": "PR05",
+    "date": "2025-07-21",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-21": {
+    "process_id": "PR06",
+    "date": "2025-07-21",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-22": {
+    "process_id": "PR01",
+    "date": "2025-07-22",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-22": {
+    "process_id": "PR02",
+    "date": "2025-07-22",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-22": {
+    "process_id": "PR03",
+    "date": "2025-07-22",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-22": {
+    "process_id": "PR04",
+    "date": "2025-07-22",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-22": {
+    "process_id": "PR05",
+    "date": "2025-07-22",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-22": {
+    "process_id": "PR06",
+    "date": "2025-07-22",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-23": {
+    "process_id": "PR01",
+    "date": "2025-07-23",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-23": {
+    "process_id": "PR02",
+    "date": "2025-07-23",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-23": {
+    "process_id": "PR03",
+    "date": "2025-07-23",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-23": {
+    "process_id": "PR04",
+    "date": "2025-07-23",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-23": {
+    "process_id": "PR05",
+    "date": "2025-07-23",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-23": {
+    "process_id": "PR06",
+    "date": "2025-07-23",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-24": {
+    "process_id": "PR01",
+    "date": "2025-07-24",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-24": {
+    "process_id": "PR02",
+    "date": "2025-07-24",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-24": {
+    "process_id": "PR03",
+    "date": "2025-07-24",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-24": {
+    "process_id": "PR04",
+    "date": "2025-07-24",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-24": {
+    "process_id": "PR05",
+    "date": "2025-07-24",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-24": {
+    "process_id": "PR06",
+    "date": "2025-07-24",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-25": {
+    "process_id": "PR01",
+    "date": "2025-07-25",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-25": {
+    "process_id": "PR02",
+    "date": "2025-07-25",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-25": {
+    "process_id": "PR03",
+    "date": "2025-07-25",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-25": {
+    "process_id": "PR04",
+    "date": "2025-07-25",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-25": {
+    "process_id": "PR05",
+    "date": "2025-07-25",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-25": {
+    "process_id": "PR06",
+    "date": "2025-07-25",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-28": {
+    "process_id": "PR01",
+    "date": "2025-07-28",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-28": {
+    "process_id": "PR02",
+    "date": "2025-07-28",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-28": {
+    "process_id": "PR03",
+    "date": "2025-07-28",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-28": {
+    "process_id": "PR04",
+    "date": "2025-07-28",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-28": {
+    "process_id": "PR05",
+    "date": "2025-07-28",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-28": {
+    "process_id": "PR06",
+    "date": "2025-07-28",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-29": {
+    "process_id": "PR01",
+    "date": "2025-07-29",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-29": {
+    "process_id": "PR02",
+    "date": "2025-07-29",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-29": {
+    "process_id": "PR03",
+    "date": "2025-07-29",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-29": {
+    "process_id": "PR04",
+    "date": "2025-07-29",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-29": {
+    "process_id": "PR05",
+    "date": "2025-07-29",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-29": {
+    "process_id": "PR06",
+    "date": "2025-07-29",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR01_2025-07-30": {
+    "process_id": "PR01",
+    "date": "2025-07-30",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR02_2025-07-30": {
+    "process_id": "PR02",
+    "date": "2025-07-30",
+    "worker_count": 2,
+    "batches_per_worker": 3.0,
+    "total_capacity": 6.0
+  },
+  "PR03_2025-07-30": {
+    "process_id": "PR03",
+    "date": "2025-07-30",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR04_2025-07-30": {
+    "process_id": "PR04",
+    "date": "2025-07-30",
+    "worker_count": 3,
+    "batches_per_worker": 2.5,
+    "total_capacity": 7.5
+  },
+  "PR05_2025-07-30": {
+    "process_id": "PR05",
+    "date": "2025-07-30",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  },
+  "PR06_2025-07-30": {
+    "process_id": "PR06",
+    "date": "2025-07-30",
+    "worker_count": 4,
+    "batches_per_worker": 2.0,
+    "total_capacity": 8.0
+  }
+}
